@@ -99,3 +99,6 @@ My Changes
 Using sqlite with Spring Boot
 
 https://www.blackslate.io/articles/integrate-sqlite-with-spring-boot
+
+Add hibernate dependency required by Sqlite
+
