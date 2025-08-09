@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=9SGDpanrc8U
 
 Spring Boot Tutorial | Full Course [2023] [NEW]
 
-##### Amigoscode
+### Amigoscode
 
 3,165,515 views  11 Jan 2021  #springboottutorial #springboot #amigoscode
 Spring Boot is an open source Java based framework used to spring boot microservices. It is developed by Pivotal Team and is used to build stand-alone and production ready spring applications. 
@@ -19,7 +19,7 @@ This full course can be found here: https://amigoscode.com/p/spring-boot
 
 #springboot #springboottutorial #amigoscode
 
-RECOMMENDED COURSES
+#### RECOMMENDED COURSES
 
 ► Java Essentials - https://amigoscode.com/p/java-essentials
 
@@ -33,60 +33,60 @@ RECOMMENDED COURSES
 
 ⭐  Table Of Contents ⭐
 
-00:00 Intro
+__00:00__ Intro
 
-01:00 Quick Word
+__01:00__ Quick Word
 
-02:12 Spring Boot Overview
+__02:12__ Spring Boot Overview
 
-03:44 Project Overview
+__03:44__ Project Overview
 
-04:28 Spring Initializr
+__04:28__ Spring Initializr
 
-08:05 IntelliJ
+__08:05__ IntelliJ
 
-10:29 Starting The Server
+__10:29__ Starting The Server
 
-14:03 Simple API with Spring Boot
+__14:03__ Simple API with Spring Boot
 
-18:06 Student Class
+__18:06__ Student Class
 
-23:19 API Layer
+__23:19__ API Layer
 
-26:38 Business Layer
+__26:38__ Business Layer
 
-29:08 Dependency Injection
+__29:08__ Dependency Injection
 
-32:47 Properties file
+__32:47__ Properties file
 
-36:15 Creating and Connecting to Database
+__36:15__ Creating and Connecting to Database
 
-39:48 JPA and @Entity
+__39:48__ JPA and @Entity
 
-42:35 JPA in Action
+__42:35__ JPA in Action
 
-45:52 Amigoscode Database Courses
+__45:52__ Amigoscode Database Courses
 
-47:35 JPA Repository
+__47:35__ JPA Repository
 
-52:20 Saving Students
+__52:20__ Saving Students
 
-58:49 @Transient
+__58:49__ @Transient
 
-01:03:01 Post Mapping
+__01:03:01__ Post Mapping
 
-01:08:00 Writing Business Logic
+__01:08:00__ Writing Business Logic
 
-01:12:43 Testing Post Request
+__01:12:43__ Testing Post Request
 
-01:15:35 Deleting Students
+__01:15:35__ Deleting Students
 
-01:21:33 Exercise
+__01:21:33__ Exercise
 
-01:22:53 Solution
+__01:22:53__ Solution
 
-01:26:54 Testing
+__01:26:54__ Testing
 
-01:29:41 Packaging and Running Application
+__01:29:41__ Packaging and Running Application
 
-01:34:52 Next steps
+__01:34:52__ Next steps
