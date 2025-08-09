@@ -95,11 +95,13 @@ __01:34:52__ Next steps
 
 
 ****************************************************************
-My Changes
+### My Changes
 
-Using sqlite with Spring Boot
+I replaced the postgres with Sqlite, which is easier to work with.
+
+Reference for Sqlite in Spring Boot is at: 
 
 https://www.blackslate.io/articles/integrate-sqlite-with-spring-boot
 
-Add hibernate dependency required by Sqlite
+
 
