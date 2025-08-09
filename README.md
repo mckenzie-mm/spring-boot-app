@@ -90,3 +90,12 @@ __01:26:54__ Testing
 __01:29:41__ Packaging and Running Application
 
 __01:34:52__ Next steps
+
+
+
+****************************************************************
+My Changes
+
+Using sqlite with Spring Boot
+
+https://www.blackslate.io/articles/integrate-sqlite-with-spring-boot
