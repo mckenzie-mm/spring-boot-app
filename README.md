@@ -93,7 +93,7 @@ __01:29:41__ Packaging and Running Application
 __01:34:52__ Next steps
 
 
-#### packaging and running application
+### Packaging and Running the Application
 
 First, from the root of the app
 
