@@ -97,19 +97,27 @@ __01:34:52__ Next steps
 
 First, from the root of the app
 
+```
 1. mvn clean
+```
 
+```
 2. mvn install
+```
 
 Then navigate to target folder and
 
+```
 java -jar demo-0.0.1-SNAPSHOT.jar
+```
 
 This will run an instance on Port 8080
 
 To run an instance on another port use
 
+```
 java -jar demo-0.0.1-SNAPSHOT.jar --server.port=8081
+```
 
 
 ****************************************************************
