@@ -28,6 +28,7 @@ public class StudentConfig {
     // 
     @Bean
     CommandLineRunner commandLineRunner(StudentRepository repository) {
+
         return args -> {
             Student mariam = new Student(
 				"Mariam",
@@ -40,6 +41,9 @@ public class StudentConfig {
 				"alex.jamal@gmail.com",
 				LocalDate.of(2004, Month.JANUARY, 5)
 			);
+
+            // delete all data from database at startup
+            repository.deleteAll();
             
             repository.saveAll(
                 List.of(mariam, alex)
