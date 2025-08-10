@@ -93,6 +93,22 @@ __01:29:41__ Packaging and Running Application
 __01:34:52__ Next steps
 
 
+#### packaging and running application
+
+1. mvn clean
+
+2. mvn install
+
+3. navigate to target folder then
+
+java -jar demo-0.0.1-SNAPSHOT.jar
+
+This will run an instance on Port 8080
+
+To run an instance on another port use
+
+java -jar demo-0.0.1-SNAPSHOT.jar --server.port=8081
+
 
 ****************************************************************
 ### My Changes
@@ -102,6 +118,5 @@ I replaced the postgres with Sqlite, which is easier to work with.
 Reference for Sqlite in Spring Boot is at: 
 
 https://www.blackslate.io/articles/integrate-sqlite-with-spring-boot
-
 
 
