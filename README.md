@@ -95,11 +95,13 @@ __01:34:52__ Next steps
 
 #### packaging and running application
 
+First, from the root of the app
+
 1. mvn clean
 
 2. mvn install
 
-3. navigate to target folder then
+Then navigate to target folder and
 
 java -jar demo-0.0.1-SNAPSHOT.jar
 
