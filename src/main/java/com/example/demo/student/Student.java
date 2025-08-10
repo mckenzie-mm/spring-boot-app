@@ -97,8 +97,8 @@ public class Student {
     public String toString(){
         return "Student{}" +
                 "id=" + id +
-                ", name=" + name + "'\'" +
-                ", email=" + email + "'\'" +
+                ", name=" + name +
+                ", email=" + email +
                 ", dob=" + dob +
                 ", age=" + age +
                 "}";
